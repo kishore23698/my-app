@@ -19,4 +19,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+   <build>
+    <finalName>MyWebApp</finalName>
+  </build>
 </project>
