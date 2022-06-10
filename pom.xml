@@ -8,8 +8,8 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <properties> 
-   <maven.compiler.source>1.8</maven.compiler.source>
-   <maven.compiler.target>1.8</maven.compiler.target>
+   <maven.compiler.source>2.2</maven.compiler.source>
+   <maven.compiler.target>2.2</maven.compiler.target>
 </properties>
   <dependencies>
     <dependency>
@@ -20,6 +20,6 @@
     </dependency>
   </dependencies>
    <build>
-    <finalName>MyWebApp</finalName>
+    <finalName>my-App</finalName>
   </build>
 </project>
